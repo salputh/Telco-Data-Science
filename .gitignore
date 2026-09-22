@@ -5,6 +5,8 @@ __pycache__/
 .ipynb_checkpoints/
 data/raw/*
 !data/raw/.gitkeep
+models/*
+!models/.gitkeep
 .env
 *.egg-info/
 .DS_Store
